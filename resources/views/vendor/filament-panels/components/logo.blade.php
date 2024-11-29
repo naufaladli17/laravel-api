@@ -1,0 +1,1 @@
+<img src="{{ asset('images/logo-esdm.svg') }}" alt="Logo Kementrian ESDM" class="h-10">
